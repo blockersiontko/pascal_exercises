@@ -1,0 +1,8 @@
+PROGRAM WRITE_LINE;
+
+BEGIN
+
+WriteLn('ZAGRANICZNA FIRMA HANDLOWA');
+Write('        EURO - 2000         ');
+
+END.

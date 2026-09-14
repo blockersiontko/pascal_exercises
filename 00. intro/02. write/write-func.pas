@@ -1,0 +1,7 @@
+PROGRAM WRITE_FUNC;
+
+BEGIN
+
+    Write('TURBO PASCAL');
+
+END.
