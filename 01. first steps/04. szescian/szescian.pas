@@ -11,10 +11,10 @@ BEGIN
     WriteLn;
     WriteLn('Obliczenie pola powierzchni calkowitej');
     WriteLn;
-    WriteLn('Ppc= ',6.*5.875*5.875:8:3,' cm kw.');
+    WriteLn('Ppc= ',6*5.875*5.875:8:3,' cm kw.');
     WriteLn;
     WriteLn('Obliczenie objetnosci');
     WriteLn;
-    WriteLn('Obj = ',5.875**3:8:3,' cm szes.');
+    WriteLn('Obj = ',Power(5.875, 3):8:3,' cm szes.');
 
 END.
